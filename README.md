@@ -35,7 +35,7 @@ I build web products end to end, from the React UI to the API and the deployment
 
 ## Side projects
 
-- **ESP32 + RF** – custom firmware, a dual CC1101 (433/868 MHz) gateway, MQTT bridges and Home Assistant integrations. → [repo]([https://github.com/lukasz-malicki-wrx/REPO-NAME](https://github.com/lukasz-malicki-wrx/esp32-rf-sniffer))
+- **ESP32 + RF** – custom firmware, a dual CC1101 (433/868 MHz) gateway, MQTT bridges and Home Assistant integrations. → [repo](https://github.com/lukasz-malicki-wrx/esp32-rf-sniffer)
 - **Home lab** – self-hosted infrastructure and automation. → [repo](https://github.com/lukasz-malicki-wrx/REPO-NAME)
 
 ## How I work
