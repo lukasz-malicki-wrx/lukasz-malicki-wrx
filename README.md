@@ -15,13 +15,6 @@
 
 I build web products end to end, from the React UI to the API and the deployment. I have been doing it commercially since 2015, including more than four years with US-based teams.
 
-## Selected work
-
-| Project | What I did | Result |
-| --- | --- | --- |
-| **GenAI content platform** (GSK) | Designed and maintain a GenAI CMS that turns approved brand claims into compliant campaign content. Added dynamic routing between Claude and Grok based on task complexity. | **-50%** campaign creation time, **-40%** LLM API cost |
-| **FoodRescue US** (MLApplied) | Built a PWA and APIs for food transfer logistics. Wrote unit and Cypress E2E tests for critical flows. | **53 locations** in **25 US states** |
-| **GolfSwing** (MLApplied) | Web admin and creator panels, plus a SwiftUI app that lets an Apple Watch control the iPhone camera. Used OpenAI for tagging, transcription and moderation. | Web, iOS and watchOS in one product |
 
 ## Tech stack
 
