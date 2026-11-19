@@ -1,3 +1,6 @@
+<img src="header.png" alt="header" />
+
+
 <h1 align="center">Łukasz Malicki</h1>
 
 <p align="center">
