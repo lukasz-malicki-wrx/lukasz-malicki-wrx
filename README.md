@@ -13,7 +13,7 @@
 
 ---
 
-I build web products end to end, from the React UI to the API and the deployment. I have been doing it commercially since 2015, including more than four years with US-based teams. Right now I work on a GenAI platform used across all GSK markets worldwide.
+I build web products end to end, from the React UI to the API and the deployment. I have been doing it commercially since 2015, including more than four years with US-based teams.
 
 ## Selected work
 
