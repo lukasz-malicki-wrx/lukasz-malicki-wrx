@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/qweluke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a>
-  <a href="mailto:maalicki@gmail.com"><img src="https://img.shields.io/badge/Email-maalicki@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="24" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Poland-lightgrey?style=flat" height="24" alt="Location" />
+  <a href="https://www.linkedin.com/in/qweluke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:maalicki@gmail.com"><img src="https://img.shields.io/badge/Email-maalicki@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Poland-lightgrey?style=flat" alt="Location" />
 </p>
 
 ---
@@ -17,62 +17,13 @@ I build web products end to end, from the React UI to the API and the deployment
 
 ## Tech stack
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat&logo=typescript" height="35" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-1e293b?style=flat&logo=javascript" height="55" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React-1e293b?style=flat&logo=react" height="85" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat&logo=nextdotjs&logoColor=white" height="25" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Redux_/_RTK_Query-1e293b?style=flat&logo=redux&logoColor=a78bfa" height="25" alt="Redux" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-1e293b?style=flat&logo=tailwindcss" height="25" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Cypress-1e293b?style=flat&logo=cypress&logoColor=white" height="25" alt="Cypress" />
-      <img src="https://img.shields.io/badge/Jest-1e293b?style=flat&logo=jest" height="25" alt="Jest" />
-      <img src="https://img.shields.io/badge/WCAG_2.1-1e293b?style=flat&logo=w3c&logoColor=white" height="25" alt="WCAG 2.1" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat&logo=nodedotjs" height="25" alt="Node.js" />
-      <img src="https://img.shields.io/badge/NestJS-1e293b?style=flat&logo=nestjs" height="25" alt="NestJS" />
-      <img src="https://img.shields.io/badge/Express.js-1e293b?style=flat&logo=express&logoColor=white" height="25" alt="Express.js" />
-      <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat&logo=postgresql" height="25" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat&logo=mysql" height="25" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat&logo=mongodb" height="25" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Prisma-1e293b?style=flat&logo=prisma&logoColor=white" height="25" alt="Prisma" />
-      <img src="https://img.shields.io/badge/RabbitMQ-1e293b?style=flat&logo=rabbitmq" height="25" alt="RabbitMQ" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-1e293b?style=flat&logo=amazonaws" height="25" alt="AWS" />
-      <img src="https://img.shields.io/badge/Azure-1e293b?style=flat&logo=microsoftazure" height="25" alt="Microsoft Azure" />
-      <img src="https://img.shields.io/badge/Docker-1e293b?style=flat&logo=docker" height="25" alt="Docker" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat&logo=githubactions" height="25" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Sentry-1e293b?style=flat&logo=sentry&logoColor=white" height="25" alt="Sentry" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_API-1e293b?style=flat&logo=anthropic" height="25" alt="Claude API" />
-      <img src="https://img.shields.io/badge/OpenAI_API-1e293b?style=flat&logo=openai&logoColor=white" height="25" alt="OpenAI API" />
-      <img src="https://img.shields.io/badge/Grok-1e293b?style=flat&logo=x&logoColor=white" height="25" alt="Grok" />
-      <img src="https://img.shields.io/badge/Cursor-1e293b?style=flat&logo=cursor&logoColor=white" height="25" alt="Cursor" />
-      <img src="https://img.shields.io/badge/MCP-1e293b?style=flat&logo=modelcontextprotocol&logoColor=white" height="25" alt="MCP" />
-      <img src="https://img.shields.io/badge/Model_Routing-1e293b?style=flat" height="25" alt="Model Routing" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native_(iOS,_Android)-1e293b?style=flat&logo=react" height="25" alt="React Native" />
-    </td>
-  </tr>
-</table>
+| | |
+| --- | --- |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_/_RTK_Query-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![WCAG 2.1](https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat&logo=w3c&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) |
+| **AI** | ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-18181B?style=flat&logo=modelcontextprotocol&logoColor=white) ![Model Routing](https://img.shields.io/badge/Model_Routing-334155?style=flat) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native_(iOS,_Android)-20232A?style=flat&logo=react&logoColor=61DAFB) |
 
 ## Side projects
 
